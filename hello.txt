@@ -17,5 +17,10 @@ hello atguigu! hello git!
 hello atguigu! hello git!sssss
 hello atguigu! hello git!
 hello atguigu! hello git!master.txt
+hello atguigu! hello git!hot fix-test
+
+hello atguigu! hello git!
+hello atguigu! hello git!
+>>>>>>> hot-fix
 hello atguigu! hello git!sssssw
 
